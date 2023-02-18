@@ -1,0 +1,2 @@
+# MandelbrotGL
+Mandelbrot fractal zoom
